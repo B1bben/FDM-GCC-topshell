@@ -1,6 +1,13 @@
 # FDM-GCC-topshell
 This is a redesign of the oem gcc topshell, which has been altered and optimized for fdm 3d printing. The shell prints in 3 pieces and has tons of possibilities for customization. 
 
+Needed Hardware:
+6x M2 Nuts
+6x 8mm m2 bolts
+
+6x m3 nuts 
+6x 12mm m3 bolts
+
 Fully parametric Notches, which can be edited in fusion 360
 
 This design is based on, and uses the full oem gcc step file made by GearHawkStudios.
